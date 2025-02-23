@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>alert</title>
+		<link rel="stylesheet" href="css/alert.css">
+		<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+	</head>
+	
+	<body>
+		<!-- <div class="alert hide"> -->
+			<div class="error alert">
+				<span class="icon"><ion-icon name="alert-circle"></ion-icon></span>
+				<span class="msg"><b>INCORRECT PASSWORD!</b></span>
+				<span class="close"><ion-icon name="close"></ion-icon></span>
+			</div>
+			
+			<div class="error e2 alert">
+				<span class="icon"><ion-icon name="alert-circle"></ion-icon></span>
+				<span class="msg"><b>INVALID ACCOUNT!</b></span>
+				<span class="close"><ion-icon name="close"></ion-icon></span>
+			</div>
+			
+			<div class="done alert">
+				<span class="icon"><ion-icon name="checkmark-done-circle"></ion-icon></span>
+				<span class="msg"><b>LOGIN SUCCESFUL!</b></span>
+				<span class="close"><ion-icon name="close"></ion-icon></span>
+			</div>
+		</div>	
+
+		<button class="show">show</button>
+	
+		<script>
+			$('.show').click(function(){
+				$('.alert').removeClass("hide");
+				$('.alert').addClass("alert");
+			}
+			)
+			$('.close').click(function(){
+				$('.alert').addClass("hide");
+				$('.alert').removeClass("alert");
+			}
+			)
+		</script>	
+		
+		<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+		<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+	</body>
+	
+</html>

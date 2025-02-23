@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+   	    <meta charset="UTF-8">  
+	    <meta name="viewport" content="width=device-width,initial-scale=1.0">  
+        <link rel="stylesheet" href="css/dpage4_4.css">
+		<link rel="icon" href="C:\PRGM\html\pictures\iconlogo1.png" type="image/x-icon">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Tektur&display=swap" rel="stylesheet">
+        <title>Teacher's Profile</title>
+    </head>
+    <body>
+		<header>
+			<img src="C:\PRGM\html\pictures\homelogo.png">
+			<nav class="navi">
+			<a href="#" class="na"><b>HOME</b></a>
+			<a href="#" class="na"><b>COMPLAINTS</b></a>
+			<a href="#" class="na"><b>MY SOLUTIONS</b></a>
+			<a href="C:\PRGM\html\project\dpage4_4.html" class="na"><b>PROFILE</b></a>
+			<a href="C:\PRGM\html\project\awelcome.html"><button class="log"><b>LOGOUT</b></button></a> 
+			</nav>
+		</header> 
+		
+		<!-- PROFILE -->
+		<div class="main">
+	
+			<!-- PROFILE PAGE --> 
+			<div id="profileform">
+				<form>
+					<div class="prof">
+				
+					</div>
+				</form>
+			</div>	
+				
+			<!-- PROFILE EDIT PAGE -->
+			<div class="profedit">  
+					
+					<div class="head">
+					<h2 style="font-size: 25px;">PROFILE</h2>
+					</div>
+				
+				<form action="">	
+				<div class="data">	
+					<div class="details d1">
+						<span class="icon"><ion-icon name="person"></ion-icon></span>
+						<input type="text" maxlength="15" required>
+						<label><b>FIRST NAME</b></label>  		
+					</div>
+					
+					<div class="details d2">
+						<span class="icon"><ion-icon name="people"></ion-icon></span>
+						<input type="text" maxlength="15" required>
+						<label><b>SECOND NAME</b></label>  		
+					</div>
+					
+					<div class="details d3">
+						<span class="icon"><ion-icon name="id-card"></ion-icon></span>
+						<input type="phone" pattern="[0-9]{11}" required>
+						<label><b>TEACHER ID</b></label>  		
+					</div>
+					
+					<div class="details d4">
+						<span class="icon"><ion-icon name="lock-closed"></ion-icon></span>
+						<input type="password" minlength="8" maxlength="16" required>
+						<label><b>PASSWORD</b></label>  		
+					</div>
+					
+					<div class="gender">
+						<label><b>GENDER:</b></label>
+						<input type="radio" name="gender" class="gen" style="margin-left: 12px;" required>
+						<label class="gen"><b>MALE</b></label>
+						<input type="radio" name="gender" class="gen" style="margin-left: 12px;" required>
+						<label class="gen"><b>FEMALE</b></label>
+					</div>
+					
+					<div class="dob">
+						<span class="icon"></span>
+						<label><b>DOB:</b></label>
+						<input type="date" required>	
+					</div>
+					
+					<div class="course">	   
+					<label><b>DEPARTMENT:</b></label>
+						<select class="crs" required>
+							<option></option>
+							<option><b>BCA</b></option>
+							<option><b>BCOM</b></option>
+						</select>
+					</div>
+					
+					<div class="submit">
+						<button class="btn"><b>SUBMIT</b></button>
+					</div>
+				</div>	
+				</form>
+			</div>
+		</div>
+		<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+		<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>	
+	</body>
+</html>	

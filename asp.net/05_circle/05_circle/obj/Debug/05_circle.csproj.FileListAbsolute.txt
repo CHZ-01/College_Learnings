@@ -1,0 +1,7 @@
+C:\Users\vaisa\source\repos\05_circle\05_circle\bin\Debug\05_circle.exe.config
+C:\Users\vaisa\source\repos\05_circle\05_circle\bin\Debug\05_circle.exe
+C:\Users\vaisa\source\repos\05_circle\05_circle\bin\Debug\05_circle.pdb
+C:\Users\vaisa\source\repos\05_circle\05_circle\obj\Debug\05_circle.csproj.AssemblyReference.cache
+C:\Users\vaisa\source\repos\05_circle\05_circle\obj\Debug\05_circle.csproj.CoreCompileInputs.cache
+C:\Users\vaisa\source\repos\05_circle\05_circle\obj\Debug\05_circle.exe
+C:\Users\vaisa\source\repos\05_circle\05_circle\obj\Debug\05_circle.pdb

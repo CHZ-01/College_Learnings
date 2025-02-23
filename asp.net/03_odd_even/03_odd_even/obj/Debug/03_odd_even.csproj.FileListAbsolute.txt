@@ -1,0 +1,7 @@
+C:\Users\vaisa\source\repos\03_odd_even\03_odd_even\bin\Debug\03_odd_even.exe.config
+C:\Users\vaisa\source\repos\03_odd_even\03_odd_even\bin\Debug\03_odd_even.exe
+C:\Users\vaisa\source\repos\03_odd_even\03_odd_even\bin\Debug\03_odd_even.pdb
+C:\Users\vaisa\source\repos\03_odd_even\03_odd_even\obj\Debug\03_odd_even.csproj.AssemblyReference.cache
+C:\Users\vaisa\source\repos\03_odd_even\03_odd_even\obj\Debug\03_odd_even.csproj.CoreCompileInputs.cache
+C:\Users\vaisa\source\repos\03_odd_even\03_odd_even\obj\Debug\03_odd_even.exe
+C:\Users\vaisa\source\repos\03_odd_even\03_odd_even\obj\Debug\03_odd_even.pdb

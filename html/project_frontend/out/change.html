@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+    <head>
+   	    <meta charset="UTF-8">  
+	    <meta name="viewport" content="width=device-width,initial-scale=1.0">  
+        <link rel="stylesheet" href="change.css">
+		<link rel="icon" href="C:\PRGM\html\pictures\iconlogo1.png" type="image/x-icon">		
+        <title>Student's page</title>
+    </head>
+    <body>
+     <header>
+	   <img src="C:\PRGM\html\pictures\homelogo.png">
+	   <nav class="navi">
+	    <a href="#"><b>HOME</b></a>
+	    <a href="#"><b>COMPLAIN</b></a>
+	    <a href="#"><b>SOLUTION</b></a>
+	    <a href="#"><b>PROFILE</b></a>
+		<button class="log"><b>LOGIN</b></button> 
+	   </nav>
+	 </header>   
+    
+	<div class="logpg" style="margin-top: 110px;">
+ 
+	 <!--LOGIN PAGE-->
+	 <div class="logfrm">
+	  <h2>LOGIN</h2>
+      <form action="#">
+	   
+	   <div class="inlog">
+        <span class="icon"><ion-icon name="id-card"></ion-icon></span>
+        <input type="phone" pattern="[0-9]{11}" required>
+        <label><b>STUDENT ID</b></label><br>  		
+       </div>
+	   
+	   <div class="inlog">	   
+		<span class="icon"><ion-icon name="lock-closed"></ion-icon></span>
+        <input type="password" minlength="8" maxlength="16" required>
+        <label><b>PASSWORD</b></label>  		
+	   </div>
+	  
+       <div class="remfor">
+        <label>
+		 <input type="checkbox">
+         <b>REMEMBER ME</b>
+		</label>
+        <a href="#"><b>FORGET PASSWORD?</b></a>  		
+	   </div>
+	   <button type="submit" class="btn"><b>LOGIN</b></button>
+	   
+	   <div class="create">
+	    <p>
+		 <b>NO ACCOUNT? </b>
+		 <a href="#" class="signup">SIGN UP!</a>
+		</p>
+	   </div>
+	  
+	  </form>  
+	 </div> 
+     
+	 <!--REGISTRATION PAGE-->
+      <div class="logreg">
+	  <h2>SIGN UP</h2>
+      <form onsubmit="return passcheck()">
+	   
+	   <div class="inlog">
+        <span class="icon"><ion-icon name="person-circle"></ion-icon></span>
+        <input type="text" maxlength="15" required>
+        <label><b>USER NAME</b></label><br>  		
+       </div>
+	   
+	    <div class="inlog">
+        <span class="icon"><ion-icon name="id-card"></ion-icon></span>
+        <input type="phone" pattern="[0-9]{11}" required>
+        <label><b>STUDENT ID</b></label><br>  		
+       </div>
+	   
+	   <div class="inlog">	   
+		<span class="icon"><ion-icon name="lock-closed"></ion-icon></span>
+        <input type="password" minlength="8" maxlength="16" id="pass1" required>
+        <label><b>PASSWORD</b></label>  		
+	   </div>
+	  
+	   <div class="inlog">	   
+		<span class="icon"><ion-icon name="lock-closed"></ion-icon></span>
+        <input type="password" minlength="8" maxlength="16" id="pass2" required>
+        <label><b>CONFIRM PASSWORD</b></label> 
+		<span id="message" style="display:flex;margin-top: 7px;margin-left: -2px;color: #ff8484;"></span>	
+	   </div>
+	   
+	   <button type="submit" class="btn"><b>SIGNUP</b></button>
+	   
+	   <div class="create">
+	    <p>
+		 <b>ALREADY A USER?  </b>
+		 <a href="#" class="login">LOG IN</a>
+		</p>
+	   </div>
+	  
+	  </form>  
+	 </div>	 
+	
+	</div>
+	
+	<!-- PROFILE PAGE -->
+
+	<div class="main">
+
+	<!-- PROFILE PAGE --> 
+		<div id="formp">
+			<form>
+				<div class="prof">
+			
+				</div>
+			</form>
+		</div>	
+		
+	<!-- PROFILE EDIT PAGE -->
+	<div class="body">
+		<div class="profedit">  
+			
+			<div class="head">
+			<h2>PROFILE</h2>
+			</div>
+	     
+		<form action="">	
+		<div class="data">	
+			<div class="profilenew pn1">
+				<span class="icon"></span>
+				<input type="text" maxlength="15" required>
+				<label><b>FIRST NAME</b></label><br>  		
+			</div>
+			
+			<div class="profilenew pn1">
+				<span class="icon"></span>
+				<input type="text" maxlength="15" required>
+				<label><b>SECOND NAME</b></label><br>  		
+			</div>
+			
+			<div class="profilenew pn2">
+				<span class="icon"></span>
+				<input type="phone" pattern="[0-9]{11}"required>
+				<label><b>STUDENT ID</b></label><br>  		
+			</div>
+			
+			<div class="profilenew pn2">
+				<span class="icon"></span>
+				<input type="password" minlength="8" maxlength="16" required>
+				<label><b>PASSWORD</b></label><br>  		
+			</div>
+			
+			<div class="gender">
+				<label><b>GENDER:</b></label>
+				<input type="radio" name="gender" class="gen" required>
+				<label class="gen"><b>MALE</b></label>
+				<input type="radio" name="gender" class="gen" required>
+				<label class="gen"><b>FEMALE</b></label>
+			</div>
+			
+			<div class="dob">
+				<span class="icon"></span>
+				<label><b>DOB:</b></label>
+				<input type="date" required>	
+			</div>
+			
+			<div class="course">	   
+			<label><b>COURSE:</b></label>
+				<select class="crs" required>
+					<option></option>
+					<option><b>BCA</b></option>
+					<option><b>BCOM</b></option>
+				</select>
+			</div>
+			
+			<div class="submit" style="margin-top: 10px;">
+				<button class="btn"><b>SUBMIT</b></button>
+			</div>
+		</div>	
+		</form>
+		</div>	
+	</div>
+	</div>
+	
+    <script src="prj.js"></script>  
+	<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+      	
+    </body>
+</html>

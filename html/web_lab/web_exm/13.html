@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>SUM</title>
+    </head>
+    <body>
+        <script type="text/javascript">
+            function sum()
+            {
+                var a=parseInt(document.getElementById("a").value);
+                var b=parseInt(document.getElementById("b").value);
+                var c=a+b;
+                document.getElementById("c").value=c;
+            }
+            
+        </script>
+        <center>
+            <br><br>
+            FIRST NUMBER: <input type="text" id="a" name="a"><br><br>
+            SECOND NUMBER: <input type="text" id="b" name="b"><br><br>
+            <button onclick="sum()">SUM</button><br><br>
+            SUM: <input type="text" id="c" name="c" readonly>
+        </center>
+    </body>
+</html>

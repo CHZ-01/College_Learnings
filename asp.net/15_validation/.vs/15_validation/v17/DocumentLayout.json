@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaisa\\source\\repos\\localhost_51271\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E3F0BC-0201-4BDF-ABD8-A4360E06B35F}|http://localhost:51271|c:\\users\\vaisa\\documents\\my web sites\\15_vaidation\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E3F0BC-0201-4BDF-ABD8-A4360E06B35F}|http://localhost:51271|C:\\Users\\vaisa\\documents\\my web sites\\15_vaidation\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vaisa\\Documents\\My Web Sites\\15_vaidation\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\My Web Sites\\15_vaidation\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\vaisa\\Documents\\My Web Sites\\15_vaidation\\Default.aspx.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\My Web Sites\\15_vaidation\\Default.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA2wBYAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ4SURBVDhP5ZRPSNNhGMc/789Nt/1czZmWm0XOWB6UIt0ubu2axEgqBLt06FiX7BJR/jl28ZBd8hZIgUgnCTEIhuFhZUXlIcMIypH/NnW/bb82t7eD\u002BWeLbEW3PqeX7/s8Hx54H16RTCYluzNqsViCheGvEIlEIiiEuAl4Py1qPAp/Zmp2CbdjL23HHXiP7JsHwoWNUspYJpO5arPZojtzA9AspbQJITCXGqixmZlf\u002B8bswhwJfR1gf5NTDY6NjZFKpaioqMDlcuF2uzWj0bio6/qgyWSa2RIKIXqmPi6zsKYDYDQI7Gop7yOrjL78QlZK8Bxg5sMsb9\u002B8xmQy4fF4MJvN5U6n8xqQ1HV9aFMqksmkPN8f4vGrue25d\u002BC0W2j3HOTGmUYG\u002Bm8Tfh7Gbrfj9Xrp6OigsrISRVH6VFXtBVAKBcWwsrLC5OQkw8PDzM3lD6IAXG9vZKQrwEhXgPuXWzl9opZKaxmHq8oJNtdy8aQLk0Eg5cZC5HI5NE0jHA4Tjea9CQYpZV9znb1TCOGeX9V5\u002Bu4rsUQap92Cv6Gac95DNNRYyeUkPr8fV309AHoqxfiTcdLp9E/CF4qitAGk0utEYkmq95ThO1rFqWMOWuoqyOU2JvP7/FuNsViMiWcT26YfKIqiDAIHpZSa01bGJZ\u002BDoSutdJ9typMViyKlbJFStgD3pqen6b7VzfJSlPX17B/LABRVVSOqqkYALZPJEFuJkc1mC\u002BuK5q/WZjf\u002BQ6GhMNA0jYG7dzAaSwuv8shk0sTj8cIYsXlIJBK9kUikJxQK5Vf8hkAggMPh2PoctoTxePxCSUlJZ151kWSz2YdWq/VBYf5P\u002BA7Hd/ajnWSf4gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-01-06T19:58:29.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\vaisa\\Documents\\My Web Sites\\15_vaidation\\Default.aspx",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\My Web Sites\\15_vaidation\\Default.aspx",
+              "ToolTip": "C:\\Users\\vaisa\\Documents\\My Web Sites\\15_vaidation\\Default.aspx",
+              "RelativeToolTip": "..\\..\\..\\Documents\\My Web Sites\\15_vaidation\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-01-06T19:40:13.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

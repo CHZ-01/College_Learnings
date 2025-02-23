@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "12_sum_of_n", "http://localhost:51017", "{0B303890-564C-4644-B72B-0633558E1D09}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51017"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Documents\My Web Sites\12_sum_of_n\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51017\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51017"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Documents\My Web Sites\12_sum_of_n\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51017\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\Documents\My Web Sites\12_sum_of_n\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B303890-564C-4644-B72B-0633558E1D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B303890-564C-4644-B72B-0633558E1D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E22D7F0-995C-4231-8E3A-58759C3F6920}
+	EndGlobalSection
+EndGlobal

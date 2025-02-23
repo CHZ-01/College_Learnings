@@ -1,0 +1,90 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Ysabeau Office', sans-serif;
+}
+
+.logo
+{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	background-color:grey;
+}
+
+/* .logo1
+{
+	height: 113px;
+    width: 145px;
+} */
+
+.logo1
+{
+    height: 113px;
+    width: 331px;
+}
+
+.logo2
+{
+	height: 95px;
+    width: 466px;
+}
+
+.welcome
+{
+	text-align:center;
+	margin-top:73px;
+}
+
+.b2
+{
+	font-size:25px;
+	margin-top: 29px;
+}
+
+.btn
+{
+	padding:20px;
+	
+}
+
+.login
+{
+    margin-right: 2px;
+    margin-left: -10px;	
+	background-color: grey;
+	color:black;
+    width: 141px;
+    height: 41px;
+    font-size: 19px;
+    border-radius: 10px;
+    text-align: center;
+/* 	margin-top:9px; */
+	cursor:pointer;
+	border:2px solid black;
+	box-shadow:0 0 15px black;	
+}
+
+.btn a
+{
+	text-decoration:none;
+	background-color:white;
+	color:black;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+/* .btn a:hover
+{
+	text-decoration:none;
+	background-color:white;
+	color:black;
+}
+ */
+.login:hover
+{
+	background-color:white;
+	color:black;
+}

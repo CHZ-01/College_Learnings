@@ -1,0 +1,7 @@
+C:\Users\vaisa\source\repos\08_mutliplication_table\08_mutliplication_table\bin\Debug\08_mutliplication_table.exe.config
+C:\Users\vaisa\source\repos\08_mutliplication_table\08_mutliplication_table\bin\Debug\08_mutliplication_table.exe
+C:\Users\vaisa\source\repos\08_mutliplication_table\08_mutliplication_table\bin\Debug\08_mutliplication_table.pdb
+C:\Users\vaisa\source\repos\08_mutliplication_table\08_mutliplication_table\obj\Debug\08_mutliplication_table.csproj.AssemblyReference.cache
+C:\Users\vaisa\source\repos\08_mutliplication_table\08_mutliplication_table\obj\Debug\08_mutliplication_table.csproj.CoreCompileInputs.cache
+C:\Users\vaisa\source\repos\08_mutliplication_table\08_mutliplication_table\obj\Debug\08_mutliplication_table.exe
+C:\Users\vaisa\source\repos\08_mutliplication_table\08_mutliplication_table\obj\Debug\08_mutliplication_table.pdb

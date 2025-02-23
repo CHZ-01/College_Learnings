@@ -1,0 +1,7 @@
+C:\Users\vaisa\source\repos\02_factorial\02_factorial\bin\Debug\02_factorial.exe.config
+C:\Users\vaisa\source\repos\02_factorial\02_factorial\bin\Debug\02_factorial.exe
+C:\Users\vaisa\source\repos\02_factorial\02_factorial\bin\Debug\02_factorial.pdb
+C:\Users\vaisa\source\repos\02_factorial\02_factorial\obj\Debug\02_factorial.csproj.AssemblyReference.cache
+C:\Users\vaisa\source\repos\02_factorial\02_factorial\obj\Debug\02_factorial.csproj.CoreCompileInputs.cache
+C:\Users\vaisa\source\repos\02_factorial\02_factorial\obj\Debug\02_factorial.exe
+C:\Users\vaisa\source\repos\02_factorial\02_factorial\obj\Debug\02_factorial.pdb

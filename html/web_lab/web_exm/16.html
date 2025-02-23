@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>PALINDROME</title>
+    </head>
+    <body>
+        <script type="text/javascript">
+            var n=prompt("ENTER A NUMBER: ");
+            var m=n,d=0,p=0;
+            while(n>0)
+            {
+                d=n%10;
+                p=(p*10)+d;
+                n=parseInt(n/10);
+            }
+            if(m==p)
+            {
+                document.write(m+" IS PALINDROME")
+            }
+            else
+            {
+                document.write(m+" IS NOT PALINDROME")
+            }
+        </script>
+    </body>
+</html>

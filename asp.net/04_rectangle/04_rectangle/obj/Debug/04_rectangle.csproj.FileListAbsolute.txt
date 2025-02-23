@@ -1,0 +1,7 @@
+C:\Users\vaisa\source\repos\04_rectangle\04_rectangle\bin\Debug\04_rectangle.exe.config
+C:\Users\vaisa\source\repos\04_rectangle\04_rectangle\bin\Debug\04_rectangle.exe
+C:\Users\vaisa\source\repos\04_rectangle\04_rectangle\bin\Debug\04_rectangle.pdb
+C:\Users\vaisa\source\repos\04_rectangle\04_rectangle\obj\Debug\04_rectangle.csproj.AssemblyReference.cache
+C:\Users\vaisa\source\repos\04_rectangle\04_rectangle\obj\Debug\04_rectangle.csproj.CoreCompileInputs.cache
+C:\Users\vaisa\source\repos\04_rectangle\04_rectangle\obj\Debug\04_rectangle.exe
+C:\Users\vaisa\source\repos\04_rectangle\04_rectangle\obj\Debug\04_rectangle.pdb

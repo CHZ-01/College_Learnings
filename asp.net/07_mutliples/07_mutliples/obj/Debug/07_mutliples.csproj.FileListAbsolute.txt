@@ -1,0 +1,7 @@
+C:\Users\vaisa\source\repos\07_mutliples\07_mutliples\bin\Debug\07_mutliples.exe.config
+C:\Users\vaisa\source\repos\07_mutliples\07_mutliples\bin\Debug\07_mutliples.exe
+C:\Users\vaisa\source\repos\07_mutliples\07_mutliples\bin\Debug\07_mutliples.pdb
+C:\Users\vaisa\source\repos\07_mutliples\07_mutliples\obj\Debug\07_mutliples.csproj.AssemblyReference.cache
+C:\Users\vaisa\source\repos\07_mutliples\07_mutliples\obj\Debug\07_mutliples.csproj.CoreCompileInputs.cache
+C:\Users\vaisa\source\repos\07_mutliples\07_mutliples\obj\Debug\07_mutliples.exe
+C:\Users\vaisa\source\repos\07_mutliples\07_mutliples\obj\Debug\07_mutliples.pdb

@@ -1,0 +1,7 @@
+C:\Users\vaisa\source\repos\01_arithemtaic_operations\01_arithemtaic_operations\bin\Debug\01_arithemtaic_operations.exe.config
+C:\Users\vaisa\source\repos\01_arithemtaic_operations\01_arithemtaic_operations\bin\Debug\01_arithemtaic_operations.exe
+C:\Users\vaisa\source\repos\01_arithemtaic_operations\01_arithemtaic_operations\bin\Debug\01_arithemtaic_operations.pdb
+C:\Users\vaisa\source\repos\01_arithemtaic_operations\01_arithemtaic_operations\obj\Debug\01_arithemtaic_operations.csproj.AssemblyReference.cache
+C:\Users\vaisa\source\repos\01_arithemtaic_operations\01_arithemtaic_operations\obj\Debug\01_arithemtaic_operations.csproj.CoreCompileInputs.cache
+C:\Users\vaisa\source\repos\01_arithemtaic_operations\01_arithemtaic_operations\obj\Debug\01_arithemtaic_operations.exe
+C:\Users\vaisa\source\repos\01_arithemtaic_operations\01_arithemtaic_operations\obj\Debug\01_arithemtaic_operations.pdb

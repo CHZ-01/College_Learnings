@@ -1,0 +1,14 @@
+body{background-color:#204060}
+
+table{border: 3px solid red;
+      border-collapse:collapse;
+      background-color:grey;}
+
+th{background-color:green;}
+
+td{text-align:center;
+   padding:5px;
+   color:gold;}
+
+caption{background-color:red;
+        color:black;}

@@ -1,0 +1,161 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Tektur', cursive;
+    font-size: 18px;
+}
+
+body{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:100vh;
+}
+
+header{
+	position:absolute;
+    top:0;
+	left:0;
+	width:100%;
+	padding:10px 100px;
+	background:grey;
+	display:flex;
+    justify-content:space-between; 
+	align-items:center;
+	z-index:99;
+}
+
+header img{
+	height:90px; 
+	width:300px;
+	float:left;
+}
+
+.navi .na{
+	position:relative;
+	font-size:1em;
+	color:black;
+	text-decoration:none;
+	font-weight:500;
+    margin-left:40px;
+}
+
+.navi .na::after{
+          content:'';
+		  position:absolute;
+		  left:0;
+		  bottom:-6px;
+		  width:100%;
+		  height:3px;
+		  background:black;
+		  border-radius:5px;
+		  transform-origin:center;
+		  transform:scaleX(0);
+          transition:transform .5s;  
+}
+
+.navi .na:hover::after{
+           transform-origin:center;	
+           transform:scaleX(1);
+		   
+		   
+}
+
+.navi .log{
+	     width:130px; 
+		 height:50px;
+		 margin-left:40px;
+		 background:transparent;
+		 border:2px solid black; 
+		 outline:none;
+		 border-radius:6px;
+		 cursor:pointer;
+		 color:black;
+		 font-weight:500;
+		 font-size:1em;
+		 transition:1s;
+}
+
+.navi .log:hover{
+	     background:white;
+}
+
+.btn{
+	width:52%;
+	height:45px;
+	background:grey;
+	border:3px solid black;
+	outline:none;
+	border-radius:6px;
+	cursor:pointer;
+	font-size:1em;
+	color:black;
+	font-weight:500;
+    margin-left: 142px;
+	margin-right: 393px;
+	transition:0.5s;
+}
+
+.btn:hover{
+	     background:white;
+}
+
+.complainbox
+{
+	display:flex;
+	align-items:center;
+	border:2px solid black;
+	border-radius:22px;
+	box-shadow:0 0 15px black;
+	flex-direction:column;
+	width: 600px;
+    height: 563px;
+    margin-top: 115px;
+}
+
+.complain
+{
+	display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+	margin-top: 25px;
+}
+
+.subject
+{
+	margin-left: 36px;
+	margin-top: -10px;
+}
+
+.content
+{
+	margin-left: 36px;
+}
+
+.mytext
+{
+	width: 200%;
+	padding:10px;
+	resize:none;
+	border-radius: 22px;
+    border-width: 3px;
+}
+
+#t2
+{
+    height: 79%;
+    border-radius: 26px;
+}
+
+.count1
+{
+    margin-top: -10px;
+	margin-left:180%;
+}
+
+.count2
+{
+    margin-top: -10px;	
+	margin-left:178%;
+}
